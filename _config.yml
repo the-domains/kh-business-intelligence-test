@@ -1,0 +1,14 @@
+layout_spectrum: 0.1397849
+typography_spectrum: 0.125448
+color:
+  saturation: 0.6610829
+  lightness: 0.7865434
+  brandStrength: 0.483871
+  brandColors:
+    - '#FFFFFF'
+    - '#302E29'
+    - '#007EE5'
+    - '#E05C42'
+    - '#676663'
+  rhythmicContrast: 0.317549
+name: KH Business Intelligence Test
